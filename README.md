@@ -1,2 +1,2 @@
-# Sqsfsl_PRADA
+# SQSFSL_PRADA
 Coming Soon
