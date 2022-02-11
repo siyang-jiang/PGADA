@@ -1,0 +1,45 @@
+{
+    "class_names": [
+        "bridge",
+        "castle",
+        "house",
+        "road",
+        "skyscraper",
+        "cloud",
+        "forest",
+        "mountain",
+        "plain",
+        "sea"
+    ],
+    "perturbations": {
+        "JPEG": [
+            4,
+            5
+        ],
+        "Speckle Noise": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Gaussian Blur": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "Spatter": [
+            4,
+            5
+        ],
+        "Saturate": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ]
+    }
+}
