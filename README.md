@@ -1,4 +1,6 @@
-# FewShiftBed
+# PGADA Offical Source Code
+Our Paper: PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift (PAKDD 22)
+
 
 ## Enviroment
  - Python 3.7
@@ -43,5 +45,6 @@ experiment can be found in the output directory (`events.out.tfevents.[...]`). T
 tensorboard --logdir=output_dir
 ```
 
-Image perturbations are modified from https://github.com/hendrycks/robustness
 
+## References
+PGADA code is modified from https://github.com/ebennequin/meta-domain-shift and image perturbations are modified from https://github.com/hendrycks/robustness
