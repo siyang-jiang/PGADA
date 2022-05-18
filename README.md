@@ -1,6 +1,6 @@
 # PGADA Offical Source Code
-Our Paper: PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift (PAKDD 22)
-
+PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift (PAKDD 22)
+Paper URL: https://arxiv.org/abs/2205.03817
 
 ## Enviroment
  - Python 3.7
