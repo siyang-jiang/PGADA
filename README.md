@@ -1,6 +1,7 @@
 # PGADA Offical Source Code
 PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift (PAKDD 22)
-Paper URL: https://arxiv.org/abs/2205.03817
+
+- Paper URL: https://arxiv.org/abs/2205.03817
 
 ## Enviroment
  - Python 3.7
@@ -48,3 +49,14 @@ tensorboard --logdir=output_dir
 
 ## References
 PGADA code is modified from https://github.com/ebennequin/meta-domain-shift and image perturbations are modified from https://github.com/hendrycks/robustness
+
+## Cite this Work:
+```
+@inproceedings{jiang2022pgada,
+  title={PGADA: Perturbation-Guided Adversarial Alignment for Few-Shot Learning Under the Support-Query Shift},
+  author={Jiang, Siyang and Ding, Wei and Chen, Hsi-Wen and Chen, Ming-Syan},
+  booktitle={Advances in Knowledge Discovery and Data Mining: 26th Pacific-Asia Conference, PAKDD 2022, Chengdu, China, May 16--19, 2022, Proceedings, Part I},
+  pages={3--15},
+  year={2022}
+}
+```
