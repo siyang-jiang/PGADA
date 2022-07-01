@@ -4,6 +4,7 @@ PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the 
 - Paper URL: https://arxiv.org/abs/2205.03817
 
 ## Enviroment
+ - GPU > 8G (>=24G for mini-Imagenet)
  - Python 3.7
  - [Pytorch](http://pytorch.org/) 1.7
  - CUDA 10
@@ -23,8 +24,12 @@ To install the datasets to your machine, please follow [this walkthrough](DATASE
 
 ## Run an experiment
 
-Configure your experiment by changing the values in `configs/*.py`, then launch your experiment.
-```python -m scripts.run_experiment```
+Configure your experiment by changing the values in `configs/*.py`, then launch your experiment. (Make Sure all config are right)
+```python -m scripts.erm_training```
+
+Testing
+```python -m scripts.eval_model```
+
 
 On some machines, the `src` module will not be found by Python. If this happens to you, run
 `export PYTHONPATH=$PYTHONPATH:path/to/FewShiftBed` to tell Python where you're at.
@@ -60,3 +65,4 @@ PGADA code is modified from https://github.com/ebennequin/meta-domain-shift and 
   year={2022}
 }
 ```
+
