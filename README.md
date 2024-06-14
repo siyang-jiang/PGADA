@@ -1,15 +1,14 @@
 # PGADA Offical Source Code
+#### PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift (PAKDD 22)
 
+- Paper URL: https://arxiv.org/abs/2205.03817
 
 ## News
 🔥 Best Student Paper Award in PAKDD 2022 
 
 🔥 Releasing the code
 
-## 
-#### PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift (PAKDD 22)
 
-- Paper URL: https://arxiv.org/abs/2205.03817
 
 ## Enviroment
  - GPU > 8G (>=24G for mini-Imagenet)
