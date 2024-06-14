@@ -4,9 +4,8 @@
 - Paper URL: https://arxiv.org/abs/2205.03817
 
 ## News
-🔥 Best Student Paper Award in PAKDD 2022 
-
-🔥 Releasing the code
+- Best Student Paper Award in PAKDD 2022🔥 
+- Releasing the code🔥 
 
 
 
