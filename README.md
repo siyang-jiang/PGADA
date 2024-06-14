@@ -1,8 +1,8 @@
 # PGADA Offical Source Code
 
---
 
-🔥 Best Student Paper Award in PAKDD 2022
+🔥 Best Student Paper Award in PAKDD 2022 
+
 🔥 Releasing the code
 
 PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift (PAKDD 22)
