@@ -1,4 +1,4 @@
-# PGADA Offical Source Code
+# PGADA Offical Source Code (Best Student Paper Award in PAKDD 2022)
 PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift (PAKDD 22)
 
 - Paper URL: https://arxiv.org/abs/2205.03817
