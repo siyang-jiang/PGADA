@@ -3,8 +3,6 @@
 
 - [[Paper 🤗](https://arxiv.org/abs/2205.03817)]  
 ## News
--  
-- Releasing the code🔥 
 
 - **2024-06-30** Release Sample Code🔥
 - **2022-05-19** **Best Student Paper Award** in PAKDD 2022🔥🔥🔥
