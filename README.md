@@ -5,7 +5,7 @@
 ## News
 
 - **2022-06-30** 🔥 Release Sample Code.
-- **2022-05-19** 🏆 **Best Student Paper Award** in PAKDD 2022.
+- **2022-05-19** 🏆 PGADA receives **Best Student Paper Award** at ** PAKDD 2022 **.
 - **2022-01-15** 🔥 PGADA is accepted by PAKDD 2022.
 
 
