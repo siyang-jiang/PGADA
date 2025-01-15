@@ -1,5 +1,5 @@
 # PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift
-#### PGADA: Perturbation-Guided Adversarial Alignmentfor Few-shot Learning Under the Support-Query Shift (PAKDD 22)
+
 [[Paper 🤗](https://arxiv.org/abs/2205.03817)]  
 
 ## News
