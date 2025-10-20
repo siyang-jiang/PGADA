@@ -1,16 +1,43 @@
-black>=20.8b1
-click>=7.0
-loguru>=0.5.3
-Markdown>=3.1.1
-numpy>=1.16.3
-# opencv-python>=4.4.0.46
-pandas>=0.24.2
-pathlib>=1.0.1
-Pillow>=6.0.0
-scikit-image>=0.17.2
-scikit-learn>=0.23.2
-tensorboard>=2.4.0
-# torch>=1.1.0
-torchvision>=0.3.0
-tqdm>=4.32.2
-wand>=0.6.5
+# PGADA Requirements
+# Dependencies for Perturbation-Guided Adversarial Alignment for Few-shot Learning
+
+# =============================================================================
+# CORE DEEP LEARNING FRAMEWORK
+# =============================================================================
+# PyTorch and related packages
+torch>=1.7.0,<2.0.0          # Main deep learning framework
+torchvision>=0.8.0            # Computer vision utilities and models
+
+# =============================================================================
+# DATA PROCESSING AND SCIENTIFIC COMPUTING
+# =============================================================================
+numpy>=1.19.0                 # Numerical computing
+pandas>=1.1.0                 # Data manipulation and analysis
+scikit-learn>=0.24.0          # Machine learning utilities
+scikit-image>=0.17.2          # Image processing
+
+# =============================================================================
+# IMAGE PROCESSING AND PERTURBATIONS
+# =============================================================================
+Pillow>=8.0.0                 # Image manipulation
+wand>=0.6.5                   # ImageMagick binding for image perturbations
+# opencv-python>=4.5.0        # Computer vision (uncomment if needed)
+
+# =============================================================================
+# EXPERIMENT MANAGEMENT AND LOGGING
+# =============================================================================
+tensorboard>=2.4.0            # Training visualization and logging
+loguru>=0.5.3                 # Enhanced logging with colors and formatting
+tqdm>=4.32.2                  # Progress bars for training loops
+
+# =============================================================================
+# UTILITIES AND HELPERS
+# =============================================================================
+click>=7.0                    # Command-line interface creation
+pathlib>=1.0.1                # Path manipulation (built-in in Python 3.4+)
+Markdown>=3.1.1               # Markdown processing
+
+# =============================================================================
+# CODE QUALITY AND FORMATTING
+# =============================================================================
+black>=20.8b1                 # Code formatting
