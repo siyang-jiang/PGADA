@@ -7,7 +7,7 @@
 
 ## 📰 News
 
-- 🔥 **October 2025**: Sample Code Released
+- 🔥 **October 2025**: Using AI to modify the README.md
 - 🏆 **May 2022**: PGADA receives **Best Student Paper Award** at **PAKDD 2022**
 - 🔥 **March 2022**: PGADA accepted by PAKDD 2022
 
