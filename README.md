@@ -1,6 +1,7 @@
 # PGADA: Perturbation-Guided Adversarial Alignment for Few-shot Learning Under the Support-Query Shift
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2205.03817)
+[![Slides](https://img.shields.io/badge/Slides-PDF-blue)](slides/PGADA.pdf)
 [![Award](https://img.shields.io/badge/PAKDD%202022-Best%20Student%20Paper-gold)](https://www.pakdd.net/awards.html)
 
 > **PGADA** addresses the challenging problem of support-query shift in few-shot learning by using perturbation-guided adversarial alignment to improve model robustness across different domains.
