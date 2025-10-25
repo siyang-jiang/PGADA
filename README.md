@@ -1,6 +1,7 @@
 # PGADA: Perturbation-Guided Adversarial Alignment for Few-shot Learning Under the Support-Query Shift
 
 [![Paper](https://img.shields.io/badge/Paper-arXiv-red)](https://arxiv.org/abs/2205.03817)
+[![Paper](https://img.shields.io/badge/Paper-Springer-green)](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_1)
 [![Slides](https://img.shields.io/badge/Slides-PDF-blue)](slides/PGADA.pdf)
 [![Award](https://img.shields.io/badge/PAKDD%202022-Best%20Student%20Paper-gold)](https://www.pakdd.net/awards.html)
 
